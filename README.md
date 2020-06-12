@@ -11,15 +11,15 @@ This idea is inspired by WhatBars.com - a similar concept for handlebars, howeve
 
 Data will initially be catalogued from two manufacturers for the proof of concept, with further brands added in subsequent projects (if it makes sense)
 
-SaddleSelector does:
+# SaddleSelector does:
 <ol>
 	<li>Initial landing page explaining the purpose of the site and contents</li>
 	<li>Seat data page, bootstrap grid model</li>
 	<li>How to choose a seat, text will be sourced from Sheldon Brown and sufficient credit given. Allows to use IDS, classes and lists.</li>
 	<li>Details about rail types</li>
-</ok>
-
-SaddleSelector does not
+</ol>
+</P>
+# SaddleSelector does not
 <ul>
 	<li>Have the ability for a user to add new saddles (yet)</li>
 	<li>Have the ability for a user to create an account</li>
